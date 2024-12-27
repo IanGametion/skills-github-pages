@@ -1,4 +1,3 @@
 ---
-title: Welcome to the site!
+*title: Welcome to the site!*
 ---
-
